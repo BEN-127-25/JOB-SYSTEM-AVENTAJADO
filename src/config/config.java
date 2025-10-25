@@ -189,9 +189,6 @@ public String hashPassword(String password) {
         return null;
     }
 }
-
-    public void viewRecords(String query, String[] headers, String[] columns, String string, String string0) {
-        throw new UnsupportedOperationException("Not supported yet."); 
-    }
 }
+
     
